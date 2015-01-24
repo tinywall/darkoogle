@@ -1,0 +1,15 @@
+{
+  "name": "Google Black",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Google Black.",
+  "content_scripts": [
+    {
+      "matches": ["*://www.google.co.in/*"],
+      "js": ["jquery-1.7.2.min.js", "onload.js"]
+    }
+  ],
+  "permissions": [
+    "tabs", "*://www.google.co.in/*"
+  ]
+}

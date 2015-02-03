@@ -8,6 +8,7 @@ The result of this plugin as shown in following snapshot.
 
 ![output](/Screenshots/Step 5.png "Step 5")
 
+![resultoutput](/Screenshots/Step 7.png "Step 7")
 
 Steps to install darkgoogle plugin in chrome browser.
 
